@@ -68,3 +68,28 @@
 Form data can be automatically validated during user input. This feature allows error messages to be displayed instantly, so users are quickly informed if they enter incorrect information. You can also customize the error messages in different languages using the language support for users in various regions.
 
 ---
+## Contact ##
+**E-mail:** idris.sanda@oresoft.net
+
+Since the DevExpress licensing procedures have been reviewed, I have not yet shared the codes. You can contact me via email for the codes.
+---
+
+### Screnshoots:
+Sample screenshots have been added. Below are some example images showcasing the BlazoreDX interface:
+
+**1.Login**
+![Login](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/01-BlazoreDx-Login-Eng.png) <br/>
+
+**2.Page Example**
+![Page Example](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/05-BlazoreDx-Example-Form2.png) <br/>
+
+**3.User Management**
+![User Manager](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/04-BlazoreDx-user-management-Eng.png) <br/>
+
+**4.Grid Options**
+![Grid Options](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/06-BlazoreDx-Grid-Options.png) <br/>
+
+**5.Localization Examples**
+![Localization Examples-Form](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/05-BlazoreDx-Example-Form2-TR.png) <br/>
+![Localization Examples-Grid](https://raw.githubusercontent.com/idrissanda/BlazoreDx/refs/heads/main/BlazoreDx-Screnshoot/07-BlazoreDx-Localization.png) <br/>
+

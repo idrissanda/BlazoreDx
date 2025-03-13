@@ -68,10 +68,12 @@
 Form data can be automatically validated during user input. This feature allows error messages to be displayed instantly, so users are quickly informed if they enter incorrect information. You can also customize the error messages in different languages using the language support for users in various regions.
 
 ---
-## Contact ##
+### Contact 
 **E-mail:** idris.sanda@oresoft.net
 
-Since the DevExpress licensing procedures have been reviewed, I have not yet shared the codes. You can contact me via email for the codes.
+#### Since the DevExpress licensing procedures have been reviewed, I have not yet shared the codes.
+#### You can contact me via email for the codes.
+
 ---
 
 ### Screnshoots:
